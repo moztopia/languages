@@ -1,7 +1,20 @@
 {
+    "app-title": "Mangosteen",
+    "ready-to-proceed": "Ready to Proceed?",
+    "login-title": "Login",
+    "loading-profiles-title": "Loading Profiles",
+    "select-profiles-title": "Select Profile",
+    "choose-profile-continue": "Choose a profile to continue:",
+    "default-profile-label": "(default)",
+    "selected-profile-label": "Selected Profile: ",
+    "choose-login-method": "Choose login method:",
+    "raw-data-config-label": "Raw Config Data:",
+    "stored-jwt-token-label": "Stored JWT Token:",
+    "likes-data-label": "Likes Data:",
     "continue-with-github": "Continue with Github",
     "continue-with-google": "Continue with Google",
     "continue-with-apple": "Continue with Apple",
     "continue-with-facebook": "Continue with Facebook",
-    "continue-with-magic-link": "Continue with Magic Link"
+    "continue-with-magic-link": "Continue with Magic Link",
+    "close-app-button": "Close Application"
 }

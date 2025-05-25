@@ -1,0 +1,20 @@
+{
+    "app-title": "Mangosteen",
+    "ready-to-proceed": "Handa nang Magpatuloy?",
+    "login-title": "Pag-login",
+    "loading-profiles-title": "Naglo-load ng Mga Profile",
+    "select-profiles-title": "Piliin ang Profile",
+    "choose-profile-continue": "Pumili ng isang profile upang magpatuloy:",
+    "default-profile-label": "(default)",
+    "selected-profile-label": "Napiling Profile: ",
+    "choose-login-method": "Piliin ang paraan ng pag-login:",
+    "raw-data-config-label": "Hilaw na Datos ng Config:",
+    "stored-jwt-token-label": "Nakaimbak na JWT Token:",
+    "likes-data-label": "Mga Datos ng Pag-like:",
+    "continue-with-github": "Magpatuloy gamit ang Github",
+    "continue-with-google": "Magpatuloy gamit ang Google",
+    "continue-with-apple": "Magpatuloy gamit ang Apple",
+    "continue-with-facebook": "Magpatuloy gamit ang Facebook",
+    "continue-with-magic-link": "Magpatuloy gamit ang Magic Link",
+    "close-app-button": "Isara ang Aplikasyon"
+}

@@ -1,7 +1,20 @@
 {
+    "app-title": "Mangosteen",
+    "ready-to-proceed": "พร้อมดำเนินการต่อหรือไม่?",
+    "login-title": "เข้าสู่ระบบ",
+    "loading-profiles-title": "กำลังโหลดโปรไฟล์",
+    "select-profiles-title": "เลือกโปรไฟล์",
+    "choose-profile-continue": "เลือกโปรไฟล์เพื่อดำเนินการต่อ:",
+    "default-profile-label": "(ค่าเริ่มต้น)",
+    "selected-profile-label": "โปรไฟล์ที่เลือก: ",
+    "choose-login-method": "เลือกวิธีเข้าสู่ระบบ:",
+    "raw-data-config-label": "ข้อมูลการตั้งค่าดิบ:",
+    "stored-jwt-token-label": "JWT Token ที่จัดเก็บ:",
+    "likes-data-label": "ข้อมูลการถูกใจ:",
     "continue-with-github": "ดำเนินการต่อด้วย Github",
     "continue-with-google": "ดำเนินการต่อด้วย Google",
     "continue-with-apple": "ดำเนินการต่อด้วย Apple",
     "continue-with-facebook": "ดำเนินการต่อด้วย Facebook",
-    "continue-with-magic-link": "ดำเนินการต่อด้วยลิงก์"
+    "continue-with-magic-link": "ดำเนินการต่อด้วย Magic Link",
+    "close-app-button": "ปิดแอปพลิเคชัน"
 }
