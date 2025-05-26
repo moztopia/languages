@@ -82,5 +82,6 @@
     "profile-bio-placeholder": "This is a placeholder for your detailed biography. You can elaborate on your interests, hobbies, and what you're looking for here.",
     "profile-photos-placeholder": "Photos content will be displayed here.",
     "profile-preferences-placeholder": "Preferences content will be displayed here.",
-    "unknown-location": "Unknown location"
+    "unknown-location": "Unknown location",
+    "membership-status-subscriber": "subscriber"
 }
