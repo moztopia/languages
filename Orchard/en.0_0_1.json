@@ -48,7 +48,6 @@
     "user-settings-content-placeholder": "User Settings Screen",
     "user-billing-content-placeholder": "User Billing Screen",
     "feedback-content-placeholder": "Feedback Screen",
-    "about-content": "# Mangosteen\n\nWelcome to **Mangosteen**, a revolutionary dating experience designed for everyone. We break the mold of traditional dating apps by fostering genuine connections in a warm, inclusive environment.\n\n## Our Mission\nTo empower every heart by blending cutting-edge technology with a human touch. We believe that authentic relationships transcend mere swipes—everyone deserves a chance to find love, friendship, and adventure.\n\n## What We Offer\n- **Inclusivity:** A welcoming community for all identities, orientations, and backgrounds.\n- **Innovative Matching:** Smart, intuitive algorithms that go beyond the surface to find true compatibility.\n- **Enhanced Safety:** Rigorous verification and moderation processes to keep your experience secure.\n- **Engagement:** Interactive profiles, dynamic messaging, and unique events that bring people together.\n\n## Our Story\nInspired by the vibrant taste of the mangosteen fruit, our app embodies a celebration of life’s diverse flavors. Just as every mangosteen is unique, so is every member of our community. We’re here to redefine dating—not as a game, but as an authentic journey into meaningful relationships.\n\n**Discover Mangosteen today and embrace a dating experience where every connection is a beautiful possibility.**",
     "help-content-placeholder": "Help Screen",
     "main-menu-title": "Main Menu",
     "profile-drawer-subtitle": "56, Bangkok",
@@ -61,5 +60,13 @@
     "continue-with-google": "Continue with Google",
     "continue-with-apple": "Continue with Apple",
     "continue-with-facebook": "Continue with Facebook",
-    "continue-with-magic-link": "Continue with Magic Link"
+    "continue-with-magic-link": "Continue with Magic Link",
+    "pick-color": "Pick a Color",
+    "cancel-button": "Cancel",
+    "select-button": "Select",
+    "theme-settings-label": "Theme Settings",
+    "primary-color-label": "Primary Theme Color",
+    "change-color-button": "Change Color",
+    "reset-color-label": "Reset Theme Color",
+    "reset-button": "Reset"
 }
