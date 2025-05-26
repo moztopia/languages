@@ -61,5 +61,19 @@
     "continue-with-google": "Continuar con Google",
     "continue-with-apple": "Continuar con Apple",
     "continue-with-facebook": "Continuar con Facebook",
-    "continue-with-magic-link": "Continuar con Magic Link"
+    "continue-with-magic-link": "Continuar con Magic Link",
+    "profile-title": "Mi Perfil",
+    "loading-profile": "Cargando Perfil...",
+    "profile-not-found-error": "Perfil no encontrado o no pudo ser cargado.",
+    "preview-button-tooltip": "Previsualizar tu perfil",
+    "profile-details-tab": "Detalles",
+    "profile-photos-tab": "Fotos",
+    "profile-preferences-tab": "Preferencias",
+    "profile-blurb-label": "Resumen",
+    "no-blurb-available": "No hay resumen disponible.",
+    "profile-bio-label": "Biografía",
+    "profile-bio-placeholder": "Este es un marcador de posición para tu biografía detallada. Puedes describir tus intereses, pasatiempos y lo que buscas aquí.",
+    "profile-photos-placeholder": "El contenido de las fotos se mostrará aquí.",
+    "profile-preferences-placeholder": "El contenido de las preferencias se mostrará aquí.",
+    "unknown-location": "Ubicación desconocida"
 }

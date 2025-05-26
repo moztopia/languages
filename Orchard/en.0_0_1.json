@@ -68,5 +68,19 @@
     "primary-color-label": "Primary Theme Color",
     "change-color-button": "Change Color",
     "reset-color-label": "Reset Theme Color",
-    "reset-button": "Reset"
+    "reset-button": "Reset",
+    "profile-title": "My Profile",
+    "loading-profile": "Loading Profile...",
+    "profile-not-found-error": "Profile not found or could not be loaded.",
+    "preview-button-tooltip": "Preview your profile",
+    "profile-details-tab": "Details",
+    "profile-photos-tab": "Photos",
+    "profile-preferences-tab": "Preferences",
+    "profile-blurb-label": "Blurb",
+    "no-blurb-available": "No blurb available.",
+    "profile-bio-label": "Bio",
+    "profile-bio-placeholder": "This is a placeholder for your detailed biography. You can elaborate on your interests, hobbies, and what you're looking for here.",
+    "profile-photos-placeholder": "Photos content will be displayed here.",
+    "profile-preferences-placeholder": "Preferences content will be displayed here.",
+    "unknown-location": "Unknown location"
 }

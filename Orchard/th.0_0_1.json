@@ -61,5 +61,19 @@
     "continue-with-google": "ดำเนินการต่อด้วย Google",
     "continue-with-apple": "ดำเนินการต่อด้วย Apple",
     "continue-with-facebook": "ดำเนินการต่อด้วย Facebook",
-    "continue-with-magic-link": "ดำเนินการต่อด้วย Magic Link"
+    "continue-with-magic-link": "ดำเนินการต่อด้วย Magic Link",
+    "profile-title": "โปรไฟล์ของฉัน",
+    "loading-profile": "กำลังโหลดโปรไฟล์...",
+    "profile-not-found-error": "ไม่พบโปรไฟล์หรือไม่สามารถโหลดได้",
+    "preview-button-tooltip": "ดูตัวอย่างโปรไฟล์ของคุณ",
+    "profile-details-tab": "รายละเอียด",
+    "profile-photos-tab": "รูปภาพ",
+    "profile-preferences-tab": "การตั้งค่า",
+    "profile-blurb-label": "คำบรรยาย",
+    "no-blurb-available": "ไม่มีคำบรรยาย",
+    "profile-bio-label": "ประวัติ",
+    "profile-bio-placeholder": "นี่คือพื้นที่สำหรับประวัติโดยละเอียดของคุณ คุณสามารถขยายความสนใจ งานอดิเรก และสิ่งที่คุณกำลังมองหาได้ที่นี่",
+    "profile-photos-placeholder": "เนื้อหารูปภาพจะแสดงที่นี่",
+    "profile-preferences-placeholder": "เนื้อหาการตั้งค่าจะแสดงที่นี่",
+    "unknown-location": "ตำแหน่งไม่ทราบ"
 }

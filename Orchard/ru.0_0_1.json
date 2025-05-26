@@ -61,5 +61,19 @@
     "continue-with-google": "Продолжить с Google",
     "continue-with-apple": "Продолжить с Apple",
     "continue-with-facebook": "Продолжить с Facebook",
-    "continue-with-magic-link": "Продолжить с волшебной ссылкой"
+    "continue-with-magic-link": "Продолжить с волшебной ссылкой",
+    "profile-title": "Мой Профиль",
+    "loading-profile": "Загрузка профиля...",
+    "profile-not-found-error": "Профиль не найден или не может быть загружен.",
+    "preview-button-tooltip": "Предварительный просмотр профиля",
+    "profile-details-tab": "Детали",
+    "profile-photos-tab": "Фотографии",
+    "profile-preferences-tab": "Предпочтения",
+    "profile-blurb-label": "Краткое описание",
+    "no-blurb-available": "Краткое описание отсутствует.",
+    "profile-bio-label": "Биография",
+    "profile-bio-placeholder": "Это место для вашей подробной биографии. Здесь вы можете рассказать о своих интересах, хобби и о том, что вы ищете.",
+    "profile-photos-placeholder": "Содержимое фотографий будет отображено здесь.",
+    "profile-preferences-placeholder": "Содержимое предпочтений будет отображено здесь.",
+    "unknown-location": "Неизвестное местоположение"
 }

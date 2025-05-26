@@ -61,5 +61,19 @@
     "continue-with-google": "Magpatuloy gamit ang Google",
     "continue-with-apple": "Magpatuloy gamit ang Apple",
     "continue-with-facebook": "Magpatuloy gamit ang Facebook",
-    "continue-with-magic-link": "Magpatuloy gamit ang Magic Link"
+    "continue-with-magic-link": "Magpatuloy gamit ang Magic Link",
+    "profile-title": "Aking Profile",
+    "loading-profile": "Naglo-load ng Profile...",
+    "profile-not-found-error": "Hindi nakita o hindi ma-load ang profile.",
+    "preview-button-tooltip": "I-preview ang iyong profile",
+    "profile-details-tab": "Mga Detalye",
+    "profile-photos-tab": "Mga Larawan",
+    "profile-preferences-tab": "Mga Kagustuhan",
+    "profile-blurb-label": "Maigsi",
+    "no-blurb-available": "Walang maigsi na deskripsyon.",
+    "profile-bio-label": "Bio",
+    "profile-bio-placeholder": "Ito ay isang placeholder para sa iyong detalyadong talambuhay. Maaari mong ilarawan ang iyong mga interes, libangan, at kung ano ang hinahanap mo dito.",
+    "profile-photos-placeholder": "Dito ipapakita ang nilalaman ng mga larawan.",
+    "profile-preferences-placeholder": "Dito ipapakita ang nilalaman ng mga kagustuhan.",
+    "unknown-location": "Hindi kilalang lokasyon"
 }
